@@ -183,12 +183,11 @@ GVEk2qeagteALBLcsVgr52b2pj3hSjvdsh2dMQ8SFVrN
 
 <p align="center"><em>Scan → send what you want → it helps grow AQOL 🚀</em></p>
 
-### 2. GitHub Sponsors (recommended)
+### 2. GitHub Sponsors 
 
-Once the repository is public, enable **GitHub Sponsors** (automatic “Sponsor” button).  
-This is the most visible and professional way to receive recurring support.
 
-### 3. Services & consulting (real monetization)
+
+### 3. Services & consulting  
 
 If you use AQOL in production or in the lab and need:
 - adaptation to a specific problem (quantum, calibration, multi-objective…)
