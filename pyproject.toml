@@ -1,0 +1,48 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aqol"
+version = "0.3.0"
+description = "Adaptive optimization loop for expensive noisy functions — fewer measurements, less energy, better results (quantum, lab, calibration…)"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+    { name = "Saimon" }
+]
+dependencies = [
+    "numpy>=1.22",
+    "scipy>=1.8",
+]
+keywords = [
+    "bayesian-optimization",
+    "gaussian-process",
+    "expensive-function",
+    "noisy-optimization",
+    "quantum",
+    "energy-efficiency",
+    "green-computing",
+    "sample-efficiency",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Optimization",
+    "Topic :: Scientific/Engineering :: Physics",
+]
+
+[project.urls]
+Homepage = "https://github.com/saimon-prog/aqol"
+Issues = "https://github.com/saimon-prog/aqol/issues"
+Changelog = "https://github.com/saimon-prog/aqol/blob/main/CHANGELOG.md"
+
+[tool.setuptools.packages.find]
+include = ["aqol*"]
