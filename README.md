@@ -178,7 +178,8 @@ GVEk2qeagteALBLcsVgr52b2pj3hSjvdsh2dMQ8SFVrN
 ```
 
 <p align="center">
-  <img src="docs/donate-qr.png" alt="Solana donation QR code (USDC / USDT / SOL)" width="220">
+  <img src="donate-qr.png"
+      alt="Solana donation QR code (USDC / USDT / SOL)" width="220">
 </p>
 
 <p align="center"><em>Scan → send what you want → it helps grow AQOL 🚀</em></p>
